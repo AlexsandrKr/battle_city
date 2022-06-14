@@ -1,6 +1,0 @@
-D:/cpp/src/battle_city/build/CMakeFiles/battle_city.dir
-D:/cpp/src/battle_city/build/CMakeFiles/ALL_BUILD.dir
-D:/cpp/src/battle_city/build/CMakeFiles/ZERO_CHECK.dir
-D:/cpp/src/battle_city/build/external/glfw/CMakeFiles/ALL_BUILD.dir
-D:/cpp/src/battle_city/build/external/glfw/src/CMakeFiles/glfw.dir
-D:/cpp/src/battle_city/build/external/glfw/src/CMakeFiles/update_mappings.dir
